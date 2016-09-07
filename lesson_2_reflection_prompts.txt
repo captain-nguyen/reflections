@@ -22,9 +22,14 @@ change?
 
 
 What are some situations when branches would be helpful in keeping your history
-organized?
+ organized? 
+How would branches help?
 
- How would branches help?
+	When you are experimenting with new functions or new settings while still needing 
+	a working version. Branches help to maintain a working version while allowing you to 
+	experiment with new settings.
+
+
 
 
 
